@@ -11,8 +11,8 @@ public class JavaSnack13 {
 		if (arr3[0]==1) {
 			arr3[0]=34;
 		}
-		if (arr3[0]==34) {
-			arr3[0]=1;
+		if (arr4[0]==34) {
+			arr4[0]=1;
 		}
 		System.out.println(Arrays.asList(arr3));
 		System.out.println(Arrays.asList(arr4));
